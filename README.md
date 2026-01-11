@@ -153,5 +153,3 @@ Student | Python Developer
 This project is developed for **educational purposes** and is free to use and modify.
 
 ---
-
-Just tell me.
